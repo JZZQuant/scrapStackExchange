@@ -1,0 +1,3 @@
+    t = text.getText()
+            t = t.encode('ascii',errors='ignore')
+            t = t.decode('utf8')
